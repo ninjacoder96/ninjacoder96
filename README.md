@@ -8,7 +8,8 @@ My name is Joshua De Guzman. I'm in the IT industries for over 5 years now. Duri
 
 ## 👨🏻‍🎓 Certifications
 
-
+[![Solution Architect Associate](https://github.com/ninjacoder96/ninjacoder96/blob/586660b731742b0170a578a51026fabb38259950/joshua_de_guzman_saa_cert.png)](https://www.credly.com/badges/04dc6743-bae5-498e-99d6-5a79cd0899c2/public_url)
+[![Cloud Architecting Graduate](https://github.com/ninjacoder96/ninjacoder96/blob/5c5b369b748edc655c36de2ba11afeada94b1726/joshua_deguzman_aws-academy-graduate-aws-academy-cloud-architecting.png)](https://www.credly.com/badges/92cf0087-a31f-4854-8b85-f53650e9bd7e/public_url)
 
 
 ## 💻 Tech Stack
