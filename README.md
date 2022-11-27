@@ -7,7 +7,8 @@
 My name is Joshua De Guzman. I'm in the IT industries for over 5 years now. During that time, I've been expose to a different type of organization that allows me to accumulate my skills in the field. 
 
 ## 👨🏻‍🎓 Certifications
-![AWS Solution Architect Associate](https://www.credly.com/badges/04dc6743-bae5-498e-99d6-5a79cd0899c2/public_url)
+
+
 
 
 ## 💻 Tech Stack
@@ -59,7 +60,13 @@ My name is Joshua De Guzman. I'm in the IT industries for over 5 years now. Duri
 - Percentages only show the most used languages, not the level of expertise
 
 
+## 📫 How to reach me:
 
+[![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/joshuawaysss)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninjacoder96)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codingbreak)
+
+![Email](https://img.shields.io/badge/deguzman.joshua96@gmail.com-AAAAAA?style=for-the-badge) <br>
 
 <br>
 <!--
