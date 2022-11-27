@@ -4,7 +4,7 @@
 
 ## 📙 About Me
 
-My name is Joshua De Guzman. I'm in the IT industries for over 5 years now. During that time, I've been expose to a different type of organization that allows me to accumulate my skills in the field. 
+My name is Joshua De Guzman. I'm in the IT industries for over 5 years now. During that time, I've been expose to a different type of organization that allows me to accumulate my skills in the field. Got interesting projects? Let's talk about it
 
 ## 👨🏻‍🎓 Certifications
 
